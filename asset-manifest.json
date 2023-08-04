@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Edfling-login7/static/css/main.b18eb67c.css",
+    "main.js": "/Edfling-login7/static/js/main.b778cb28.js",
+    "static/media/login-7.jpg": "/Edfling-login7/static/media/login-7.5a6f634ea59bb51c3814.jpg",
+    "static/media/google.png": "/Edfling-login7/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/facebook.png": "/Edfling-login7/static/media/facebook.01a470d813915c298403.png",
+    "index.html": "/Edfling-login7/index.html",
+    "main.b18eb67c.css.map": "/Edfling-login7/static/css/main.b18eb67c.css.map",
+    "main.b778cb28.js.map": "/Edfling-login7/static/js/main.b778cb28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b18eb67c.css",
+    "static/js/main.b778cb28.js"
+  ]
+}
